@@ -67,7 +67,9 @@ Commits are linted with `@commitlint/config-conventional` (see `.github/workflow
 
 When publishing a recipe, after opening its pull request, subscribe to the PR's activity (`subscribe_pr_activity`) so review comments and CI failures are auto-handled until the PR is merged or closed. Do this for every recipe PR going forward.
 
-Sourcery posts an automated review when the PR is opened — wait for it and apply its valid suggestions; that review (a concrete list of fixes) is the main reason it's kept. It and any Copilot comments are advisory input, not required checks. Once you've addressed them and the required status checks are green — `commitlint` and the Netlify `deploy-preview` build — you have standing permission to squash-merge the PR, then monitor the GitHub Pages build on `main` to confirm the site builds successfully.
+Sourcery posts an automated review when the PR is opened — wait for it and apply its valid suggestions; that review (a concrete list of fixes) is the main reason it's kept. It and any Copilot comments are advisory input, not required checks. Address them and get the required status checks green — `commitlint` and the Netlify `deploy-preview` build.
+
+Do **not** merge on your own. Open the PR and get it review-clean and green, then stop and wait for explicit approval to merge — this lets the maintainer inspect the Netlify deploy-preview before it goes live. Once the maintainer approves, squash-merge the PR, then monitor the GitHub Pages build on `main` to confirm the site builds successfully.
 
 ## Minimize pushes per PR
 
