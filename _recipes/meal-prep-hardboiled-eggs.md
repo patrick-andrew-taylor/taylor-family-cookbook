@@ -22,7 +22,9 @@ A batch of hardboiled eggs for the week — protein-ready for bowls, salads, or 
 ## Instructions
 
 1. Place the eggs in a single layer in a wide pan; cover with water ~1 inch above the eggs.
-2. Bring to a boil, then cook 12 minutes.
+2. Bring to a boil, then cook 9–10 minutes for a creamier yolk.
 3. Transfer to an ice bath for 10–15 minutes.
 4. Peel: tap and roll to crack all over, start at the fat (air-pocket) end, and peel under running water.
 5. Store peeled in the fridge; keeps about 1 week.
+
+> 12+ min tends to make yolks chalky/dry. For meal-prep, pull at 9–10 min, or take the pan off the heat at the boil and let sit covered ~10 min.
