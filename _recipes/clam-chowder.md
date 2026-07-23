@@ -4,14 +4,18 @@ title: Clam Chowder
 image:
   path: /assets/img/clam-chowder.jpg
   thumbnail: /assets/img/clam-chowder-300x400.jpg
+  alt: "A red Dutch oven on the stove, full of creamy clam chowder with bite-sized potato pieces, a black ladle resting in the pot"
   caption: "Mom's clam chowder, ladle at the ready"
 categories: [Soups]
 tags: [Meat]
 ---
 
-Mom's chowder, transcribed straight from the tape. Serves 12 to 14 people.
+Mom's chowder, transcribed straight from the tape — the recipe below is the transcript. Serves 12 to 14 people.
 
-<audio controls src="/assets/audio/clam-chowder.m4a" preload="none"></audio>
+<audio controls src="/assets/audio/clam-chowder.m4a" preload="none">
+  Your browser doesn't support embedded audio.
+  <a href="/assets/audio/clam-chowder.m4a">Download the recording</a> instead.
+</audio>
 
 ## Ingredients
 
