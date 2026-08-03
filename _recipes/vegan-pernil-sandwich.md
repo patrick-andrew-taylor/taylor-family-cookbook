@@ -14,7 +14,7 @@ Inspired by [Sophie's Cuban Cuisine's](https://www.sophiescuban.com/) Pernil wit
 ## Ingredients
 
 - [Vegan Pernil](https://cooking.nytimes.com/recipes/1024877-vegan-jackfruit-pernil)[^1]
-- [Aji Verde (Green Sauce)](https://recipes.jaintaylor.family/recipes/miscellaneous/green-sauce/)[^2]
+- [Aji Verde (Green Sauce)](https://recipes.taylors.family/recipes/miscellaneous/green-sauce/)[^2]
 - [Quick-Pickled Red Onions](https://www.bonappetit.com/recipe/quick-pickled-onions)[^3]
 - [Goya Maduros (Fried Plantains)](https://www.goya.com/en/products/ripe-plantains)[^4]
 - Mayo
