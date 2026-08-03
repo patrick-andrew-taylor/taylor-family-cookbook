@@ -23,9 +23,9 @@ whole thing up. Makes enough for 6 to 8 sandwiches and keeps in the fridge for 3
 | Chunk White Albacore Tuna in Water | 4 Cans (5 Ounces Each), Drained Well |
 | Mayonnaise | 1 Cup |
 | Hot Chopped Peppers | 3 Tablespoons, Jarred, Drained |
-| Pepperoncini Brine | 1 Tablespoon[^4] |
-| Blackening Seasoning | 1 1/2 Teaspoons[^1] |
-| Cayenne Pepper | 1 Pinch, Optional[^2] |
+| Pepperoncini Brine | 2 Tablespoons[^4] |
+| Blackening Seasoning | 2 Teaspoons[^1] |
+| Cayenne Pepper | 1/4 Teaspoon[^2] |
 | Kosher Salt | To Taste[^3] |
 | Black Pepper | To Taste, Freshly Ground |
 
@@ -38,11 +38,12 @@ whole thing up. Makes enough for 6 to 8 sandwiches and keeps in the fridge for 3
 5. Refrigerate for at least 30 minutes — the dried spices need the time to wake up, and the salad tastes noticeably better for it.
 6. Taste and season with salt and pepper, adding more of any spice (or another splash of brine) that got lost along the way.
 
-> Serve on toasted bread, on crackers, or straight off the fork over greens.
-> A dusting of Tajín over the assembled sandwich adds a lime-chile brightness
-> that plays perfectly with the hot peppers.
+> Serve stuffed into pita pockets — the house move — or on toasted bread,
+> crackers, or straight off the fork over greens. A dusting of Tajín over the
+> assembled pocket adds a lime-chile brightness that plays perfectly with the
+> hot peppers.
 
 [^1]: Blackening blends already pack paprika, garlic, onion, and herbs, so no need to add those separately. Every blend is different — start at 1 teaspoon if yours runs salty or hot.
-[^2]: Between the hot peppers and the blackening seasoning there's already real heat here; the cayenne is for the table's spice hawks.
+[^2]: The tested amount lands as a gentle, noticeable kick on top of the hot peppers and blackening. Drop to a pinch — or skip it — for a milder batch.
 [^3]: Go easy — canned tuna, mayo, blackening seasoning, and both pepper brines all bring their own salt. Taste before adding any.
-[^4]: Red wine vinegar works too — use 2 teaspoons, since straight vinegar is sharper than brine.
+[^4]: Red wine vinegar works too — use about half as much (1 tablespoon), since straight vinegar is sharper than brine.
