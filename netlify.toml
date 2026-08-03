@@ -1,5 +1,5 @@
 # Netlify config — used for per-PR Deploy Previews.
-# Production stays on GitHub Pages (recipes.jaintaylor.family); this site is
+# Production stays on GitHub Pages (recipes.taylors.family); this site is
 # only a build target for previewing branches/PRs before they merge.
 
 [build]

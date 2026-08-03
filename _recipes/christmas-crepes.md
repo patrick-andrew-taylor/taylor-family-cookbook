@@ -9,7 +9,7 @@ categories: [Breakfast]
 tags: [Vegetarian]
 ---
 
-A Jain-Taylor family Christmas tradition combining delicate crepes with both savory and sweet components. This recipe serves 2 people with a choice of two flavor profiles: savory with glazed tofu and Velveeta sauce, or sweet with berry compote, Nutella, and whipped cream.
+A Taylor family Christmas tradition combining delicate crepes with both savory and sweet components. This recipe serves 2 people with a choice of two flavor profiles: savory with glazed tofu and Velveeta sauce, or sweet with berry compote, Nutella, and whipped cream.
 
 ## Components
 
