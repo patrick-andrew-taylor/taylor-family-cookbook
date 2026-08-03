@@ -4,8 +4,8 @@ title: Tuna Salad
 image:
   path: /assets/img/tuna-salad.jpg
   thumbnail: /assets/img/tuna-salad-300x400.jpg
-  alt: "A four-pack box of Bumble Bee chunk white albacore tuna cans on a kitchen counter"
-  caption: "The starting lineup: four cans of chunk white albacore"
+  alt: "A pita pocket stuffed with tuna salad on a white plate, a blue mug in the background"
+  caption: "The house move: tuna salad in a pita pocket"
 categories: [Miscellaneous]
 tags: [Meat]
 ---
