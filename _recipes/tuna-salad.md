@@ -13,8 +13,8 @@ tags: [Meat]
 A big-batch tuna salad with a kick, built from canned tuna, mayo, and a raid of
 the pantry: blackening seasoning does the heavy lifting, jarred hot chopped
 peppers bring heat and crunch, and a splash of red wine vinegar wakes the whole
-thing up. Celery seed stands in for celery and dried dill for the pickles.
-Makes enough for 6 to 8 sandwiches and keeps in the fridge for 3 to 4 days.
+thing up. Makes enough for 6 to 8 sandwiches and keeps in the fridge for 3 to
+4 days.
 
 ## Ingredients
 
@@ -25,8 +25,6 @@ Makes enough for 6 to 8 sandwiches and keeps in the fridge for 3 to 4 days.
 | Hot Chopped Peppers | 3 Tablespoons, Jarred, Drained |
 | Red Wine Vinegar | 2 Teaspoons |
 | Blackening Seasoning | 1 1/2 Teaspoons[^1] |
-| Dried Dill | 1 Teaspoon |
-| Celery Seed | 1/2 Teaspoon |
 | Ground Mustard | 1/2 Teaspoon |
 | Cayenne Pepper | 1 Pinch, Optional[^2] |
 | Kosher Salt | To Taste[^3] |
@@ -35,7 +33,7 @@ Makes enough for 6 to 8 sandwiches and keeps in the fridge for 3 to 4 days.
 ## Instructions
 
 1. Drain the tuna thoroughly — press each lid down into the can and squeeze out as much water as you can. Watery tuna makes watery salad.
-2. In a small bowl, whisk the red wine vinegar, blackening seasoning, dill, celery seed, ground mustard, and cayenne into the mayonnaise until smooth.
+2. In a small bowl, whisk the red wine vinegar, blackening seasoning, ground mustard, and cayenne into the mayonnaise until smooth.
 3. Flake the tuna into a large bowl, breaking up any big chunks with a fork, and scatter the drained hot peppers over the top.
 4. Fold the seasoned mayo into the tuna until evenly coated. Add another spoonful of mayo if it looks dry.
 5. Refrigerate for at least 30 minutes — the dried spices need the time to wake up, and the salad tastes noticeably better for it.
