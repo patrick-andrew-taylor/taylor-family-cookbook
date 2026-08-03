@@ -39,9 +39,9 @@ whole thing up. Makes enough for 6 to 8 sandwiches and keeps in the fridge for 3
 6. Taste and season with salt and pepper, adding more of any spice (or another splash of brine) that got lost along the way.
 
 > Serve stuffed into pita pockets — the house move — or on toasted bread,
-> crackers, or straight off the fork over greens. A dusting of Tajín over the
-> assembled pocket adds a lime-chile brightness that plays perfectly with the
-> hot peppers.
+> crackers, or straight off the fork over greens. Don't skip the dusting of
+> Tajín over the assembled pocket: the lime-chile brightness plays perfectly
+> with the hot peppers. Kitchen-tested, enthusiastically endorsed.
 
 [^1]: Blackening blends already pack paprika, garlic, onion, and herbs, so no need to add those separately. Every blend is different — start at 1 teaspoon if yours runs salty or hot.
 [^2]: The tested amount lands as a gentle, noticeable kick on top of the hot peppers and blackening. Drop to a pinch — or skip it — for a milder batch.
