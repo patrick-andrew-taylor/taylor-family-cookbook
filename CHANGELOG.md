@@ -56,8 +56,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Basic framework from [So Simple Jekyll Theme](https://github.com/mmistakes/so-simple-theme) used with authors and recipes.
 - CNAME added for [recipes.jaintaylor.family](https://recipes.jaintaylor.family/)
 
-[Unreleased]: https://github.com/patrick-andrew-jain-taylor/taylor-family-cookbook/compare/v0.3.0...HEAD
-[0.4.0]: https://github.com/patrick-andrew-jain-taylor/taylor-family-cookbook/compare/v0.3.0...v0.4.0
-[0.3.0]: https://github.com/patrick-andrew-jain-taylor/taylor-family-cookbook/compare/v0.2.0...v0.3.0
-[0.2.0]: https://github.com/patrick-andrew-jain-taylor/taylor-family-cookbook/compare/v0.1.0...v0.2.0
-[0.1.0]: https://github.com/patrick-andrew-jain-taylor/taylor-family-cookbook/releases/tag/v0.1.0
+[Unreleased]: https://github.com/patrick-andrew-taylor/taylor-family-cookbook/compare/v0.3.0...HEAD
+[0.4.0]: https://github.com/patrick-andrew-taylor/taylor-family-cookbook/compare/v0.3.0...v0.4.0
+[0.3.0]: https://github.com/patrick-andrew-taylor/taylor-family-cookbook/compare/v0.2.0...v0.3.0
+[0.2.0]: https://github.com/patrick-andrew-taylor/taylor-family-cookbook/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/patrick-andrew-taylor/taylor-family-cookbook/releases/tag/v0.1.0
