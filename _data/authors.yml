@@ -1,5 +1,5 @@
 pjt:
-  name: Patrick (Taylor) Jain-Taylor
+  name: Patrick Taylor
   picture: "/assets/img/authors/pjt.jpeg"
   twitter: pjaintaylor
   links:
@@ -12,12 +12,6 @@ pjt:
     - title: GitHub
       url: https://github.com/patrick-andrew-jain-taylor
       icon: fab fa-github-square
-ajt:
-  name: Akanksha (Jain) Jain-Taylor
-  picture: "/assets/img/authors/ajt.jpg"
-jt:
-  name: Patrick (Taylor) & Akanksha (Jain) Jain-Taylor
-  picture: "/assets/img/authors/jt.jpg"
 dmt:
   name: Denise (Zimmerman) Taylor
   picture: "/assets/img/authors/dmt.jpg"
@@ -51,9 +45,6 @@ jfz:
   picture: "/assets/img/authors/jfz.jpg"
 cdn:
   name: Colleen (Dorsey) Needham
-rsj:
-  name: Renu (Sharma) Jain
-  picture: "/assets/img/authors/rsj.jpg"
 sdk:
   name: Sadella Khana
   picture: "/assets/img/authors/sdk.jpg"
