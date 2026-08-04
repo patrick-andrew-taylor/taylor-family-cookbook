@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Match what GitHub Pages runs in production so Netlify (and local) builds
-# stay in lockstep with the live site at recipes.jaintaylor.family.
+# stay in lockstep with the live site at recipes.taylors.family.
 # This bundle includes Jekyll, jekyll-remote-theme, and every plugin
 # referenced in _config.yml.
 gem "github-pages", group: :jekyll_plugins

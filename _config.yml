@@ -62,14 +62,11 @@ include:
   - LICENSE.md
   - _pages
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/pjaintaylor
-    icon: fab fa-twitter-square
   - title: LinkedIn
-    url: https://linkedin.com/in/pjaintaylor
+    url: https://www.linkedin.com/in/patrickandrewtaylor/
     icon: fab fa-linkedin
   - title: GitHub
-    url: https://github.com/patrick-andrew-jain-taylor
+    url: https://github.com/patrick-andrew-taylor
     icon: fab fa-github-square
 categories: [Appetizers, Breakfast, Desserts, Drinks, Entrees, Miscellaneous, Seasonings, Side Dishes, Soups]
 tags: [Vegetarian, Vegan, Meat]
