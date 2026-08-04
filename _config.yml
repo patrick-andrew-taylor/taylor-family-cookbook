@@ -62,9 +62,6 @@ include:
   - LICENSE.md
   - _pages
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/pjaintaylor
-    icon: fab fa-twitter-square
   - title: LinkedIn
     url: https://www.linkedin.com/in/patrickandrewtaylor/
     icon: fab fa-linkedin

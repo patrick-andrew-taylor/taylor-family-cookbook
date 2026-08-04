@@ -1,11 +1,7 @@
 pjt:
   name: Patrick Taylor
   picture: "/assets/img/authors/pjt.jpeg"
-  twitter: pjaintaylor
   links:
-    - title: Twitter
-      url: https://twitter.com/pjaintaylor
-      icon: fab fa-twitter-square
     - title: LinkedIn
       url: https://www.linkedin.com/in/patrickandrewtaylor/
       icon: fab fa-linkedin
