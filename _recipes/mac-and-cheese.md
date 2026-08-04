@@ -11,7 +11,7 @@ tags: [Vegetarian]
 
 Inspired by the Mac and Cheese at [Michael Jordan's Steakhouse](https://www.michaeljordansteakhouse.com/) in Chicago, this mac is to die for!
 
-## Ingredients[^1]
+## Ingredients
 
 | Ingredient | Quantity |
 |:-:|:-:|
