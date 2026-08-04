@@ -10,7 +10,7 @@ categories: [Entrees]
 tags: [Meat]
 ---
 
-An oven-baked Nigerian jollof rice, generously shared by Sadella Khana via
+An oven-baked Ghanaian jollof rice, generously shared by Sadella Khama via
 her cooking video[^1]. A blended pepper mix does double duty — a quarter of it
 seasons the meat while it simmers, and the rest becomes the base of the stew.
 The rice then cooks in the oven using only the meat stock (no water!), sealed
