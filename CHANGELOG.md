@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Pepper Paneer dish
 
 ### Changed
-- Rebranded as The Taylor Family Cookbook; site moved to [recipes.taylors.family](https://recipes.taylors.family/) (old domain redirects).
+- Site moved to [recipes.taylors.family](https://recipes.taylors.family/) (old domain redirects).
 
 ## [0.4.0] - 2021-04-03
 ### Added
