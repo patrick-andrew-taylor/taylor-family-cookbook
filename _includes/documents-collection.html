@@ -1,0 +1,34 @@
+{% comment %}
+  Local override of so-simple-theme@3.2.0 _includes/documents-collection.html.
+
+  Adds an optional `experimental` parameter:
+    experimental=true   -> only recipes marked `experimental: true`
+    experimental=false  -> only recipes that are not marked experimental
+    (omitted)           -> every entry, matching upstream behaviour
+{% endcomment %}
+
+{% assign entries = site[include.collection] %}
+
+{% if include.experimental == true %}
+  {% assign entries = entries | where: 'experimental', true %}
+{% elsif include.experimental == false %}
+  {% assign entries = entries | where_exp: 'entry', 'entry.experimental != true' %}
+{% endif %}
+
+{% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'date' %}
+  {% endif %}
+{% endif %}
+
+{%- for entry in entries -%}
+  {% include entry.html %}
+{%- endfor -%}
