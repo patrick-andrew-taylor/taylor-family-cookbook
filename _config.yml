@@ -61,6 +61,22 @@ include:
   - README.md
   - LICENSE.md
   - _pages
+# Keep tooling config out of the published site. NOTE: setting `exclude` replaces
+# Jekyll's built-in defaults rather than adding to them, so the vendor/ and
+# Gemfile entries below must stay -- without them `bundle install --path
+# vendor/bundle` would publish the entire gem bundle.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - mise.toml
+  - netlify.toml
+  - commitlint.config.js
+  - "ruleset - Protect main.json"
 footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/patrickandrewtaylor/
