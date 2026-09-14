@@ -7,9 +7,8 @@
   publish = "_site"
 
 [build.environment]
-  # Pin a Ruby that's compatible with the github-pages gem. If this exact
-  # patch isn't on Netlify's image, bump it to a nearby 3.3.x in the logs.
-  RUBY_VERSION = "3.3.6"
+  # Ruby version comes from .ruby-version, which Netlify reads natively and
+  # mise reads locally. Keep the pin there so the two cannot drift apart.
   # Keep analytics/comments from firing on preview builds.
   JEKYLL_ENV = "development"
 
