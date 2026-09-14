@@ -1,9 +1,12 @@
-# Runtime versions for the cookbook. Run `mise install` after cloning.
+# Tooling config for the cookbook. Run `mise install` after cloning.
 #
-# Ruby is pinned to match netlify.toml's RUBY_VERSION and what GitHub Pages
-# runs in production, so local, preview, and production builds agree.
-[tools]
-ruby = "3.3.6"
+# The Ruby version itself is NOT set here -- it lives in .ruby-version, which
+# Netlify's build image reads natively, so local and CI share one source of
+# truth. mise ignores idiomatic version files like .ruby-version unless it is
+# explicitly told to read them; without the [settings] block below mise would
+# silently fall back to your global default and quietly disagree with CI.
+[settings]
+idiomatic_version_file_enable_tools = ["ruby"]
 
 [tasks.build]
 description = "Build the site into _site/"
