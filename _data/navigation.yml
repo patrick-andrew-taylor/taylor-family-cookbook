@@ -2,6 +2,8 @@
   url: /
 - title: Recipes
   url: /recipes/
+- title: Experimental
+  url: /experimental/
 #- title: Categories
 #  url: /categories/
 #- title: Tags

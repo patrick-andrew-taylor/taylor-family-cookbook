@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+{% comment %}
+  Local override of so-simple-theme@3.2.0 _layouts/collection.html.
+  Adds `experimental` so a page can list only blessed or only experimental
+  recipes. Omit the key to list the whole collection, as upstream does.
+{% endcomment %}
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order experimental=page.experimental %}
+</div>

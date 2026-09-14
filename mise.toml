@@ -1,0 +1,14 @@
+# Runtime versions for the cookbook. Run `mise install` after cloning.
+#
+# Ruby is pinned to match netlify.toml's RUBY_VERSION and what GitHub Pages
+# runs in production, so local, preview, and production builds agree.
+[tools]
+ruby = "3.3.6"
+
+[tasks.build]
+description = "Build the site into _site/"
+run = "bundle exec jekyll build --trace"
+
+[tasks.serve]
+description = "Serve the cookbook at http://localhost:4000"
+run = "bundle exec jekyll serve --livereload"
