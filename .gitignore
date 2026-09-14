@@ -8,3 +8,6 @@
 /.bundle/
 /vendor/
 Gemfile.lock
+
+# mise per-machine overrides
+.mise.local.toml
